@@ -1,0 +1,359 @@
+.outer_border{
+    width: 1000px;
+    height: 891px;
+    border: solid 1px black;
+    margin: auto;
+}
+
+.left_side{
+    width: 400px;
+    height: 891px;
+    float: left;
+}
+.profile{
+    width: 400px;
+    height: 470px;
+    background-color: #B8B58C;
+}
+
+.profile:hover{
+    font-style: italic;
+    box-shadow: rgb(53, 53, 55) 0px 10px 20px, rgb(53, 53, 55) 0px 6px 6px;  
+}
+
+.profile_image{
+    width: 310px;
+    height: 310px;
+    border-radius: 310px;
+    float: left;
+    text-align: center;
+    background-color: #353537;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.profile_name{
+    width: 400px;
+    height: 140px;
+    float: left;
+    text-align: center;
+    color: #353537;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+/* start about me */
+
+.about_me1{
+    width: 400px;
+    height: 210px;
+    background-color: #B8B58C;
+    margin-top: -20px;
+}
+
+.about_me1:hover{
+    font-style: italic;
+    box-shadow: rgb(53, 53, 55) 0px 10px 20px, rgb(53, 53, 55) 0px 6px 6px;  
+}
+
+.about_me2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    color: #353537;
+}
+
+.about_me3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: #353537;
+    font-size: large;
+}
+
+/* start contact details */
+
+.contact{
+    width: 400px;
+    height: 216px;
+    background-color: #B8B58C;
+    margin-top: -10px;
+}
+
+.contact:hover{
+    font-style: italic;
+    box-shadow: rgb(53, 53, 55) 0px 10px 20px, rgb(53, 53, 55) 0px 6px 6px;  
+}
+
+.contact_details1{
+    width: 190px;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: 5px;
+    color: #353537;
+}
+
+.phone_icon{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-top: 5px;
+}
+
+.phone_info{
+    width: 110px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #353537;
+    font-size: large;
+    float: left;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+
+.contact_details2{
+    width: 310px;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 9px;
+    margin-left: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.email_icon{
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+
+.email_info{
+    width: 210px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #353537;
+    font-size: large;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.contact_details3{
+    width: 310px;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    margin-left: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.location_icon{
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+
+.location_info{
+    width: 210px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #353537;
+    font-size: large;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+/* start right side */
+
+.right_side{
+    width: 600px;
+    height: 891px;
+    background-color: #353537;
+    float: left;
+}
+
+.work_exp{
+    width: 596px;
+    height: 430px;
+}
+
+.work_exp:hover{
+    font-style: italic;
+    box-shadow: rgb(184, 181, 140) 0px 10px 20px, rgb(184, 181, 140) 0px 6px 6px;  
+}
+
+.work_exp1{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+.com_role1{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.com_role_work1{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    margin-right: 40px;
+    margin-top: -10px;
+}
+
+.com_role_work2{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    margin-right: 40px;
+    margin-top: 5px;
+}
+
+.com_role2{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.com2_role_work1{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    margin-right: 40px;
+    margin-top: -10px;
+}
+
+.com2_role_work2{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    margin-right: 40px;
+    margin-top: 5px;
+}
+
+/* start skills */
+
+.skills{
+    width: 596px;
+    height: 180px;
+}
+
+.skills:hover{
+    font-style: italic;
+    box-shadow: rgb(184, 181, 140) 0px 10px 20px, rgb(184, 181, 140) 0px 6px 6px;  
+}
+
+.skills1{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+
+.skill2{
+    width: 300px;
+    height: 140px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-top: -30px;
+    color: #B8B58C;
+}
+
+.skill3{
+    width: 250px;
+    height: 140px;
+    float: left;
+    margin-top: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-top: -30px;
+    color: #B8B58C;
+}
+
+.ii{
+    margin-top: 5px;
+}
+
+/* start certifications */
+
+.certificate{
+    width: 596px;
+    height: 120px;
+}
+
+.certificate:hover{
+    font-style: italic;
+    box-shadow: rgb(184, 181, 140) 0px 10px 20px, rgb(184, 181, 140) 0px 6px 6px;  
+}
+
+.certificate1{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+
+.cer1{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    margin-right: 40px;
+    margin-top: -10px;
+}
+
+.cer2{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    margin-right: 40px;
+    margin-top: 3px;
+}
+
+.cer3{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    margin-right: 40px;
+    margin-top: 3px;
+}
+
+/* start project */
+
+.project{
+    width: 596px;
+    height: 80px;
+}
+
+.project:hover{
+    font-style: italic;
+    box-shadow: rgb(184, 181, 140) 0px 10px 20px, rgb(184, 181, 140) 0px 6px 6px;  
+}
+
+.project1{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.project_link{
+    color: #B8B58C;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 40px;
+    margin-top: 3px;
+}
+
+.a{
+    text-decoration: none;
+    color: #B8B58C;
+    margin-left: 20px;
+}
+
+.a:hover{
+    color: white;
+    text-decoration: underline;
+}
